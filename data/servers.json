@@ -3516,6 +3516,19 @@
     }
   },
   {
+    "name": "SlashYear",
+    "url": "https://github.com/ctrl-maud/slashyear",
+    "description": "Look up history by year, date and country, plus world leaders, historical prices and No. 1 songs, each line cited to a Wikipedia revision.",
+    "category": "data-analytics-and-bi",
+    "language": "JavaScript",
+    "provider": "SlashYear",
+    "tags": ["history", "wikipedia", "reference-data", "remote"],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://slashyear.com/mcp"
+    }
+  },
+  {
     "name": "Zaptu",
     "url": "https://github.com/TommyTap11/zaptu",
     "description": "Sends a person's consented US home-service contact request (service, ZIP, name, phone) to independent local providers; for plumbing it returns a number the person dials, and Zaptu does not perform the work.",
